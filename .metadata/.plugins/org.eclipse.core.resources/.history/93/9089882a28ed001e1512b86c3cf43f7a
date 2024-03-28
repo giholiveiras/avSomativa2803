@@ -1,0 +1,5 @@
+package com.projetojpa.entities;
+
+public class Turma {
+
+}

@@ -1,0 +1,10 @@
+package com.projetojpa.entities;
+
+@Data
+@NoArgsConstructor
+@AllArgsConstructor
+@Entity
+@Table(name = "turma")
+public class Turma {
+
+}

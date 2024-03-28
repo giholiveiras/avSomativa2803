@@ -1,0 +1,5 @@
+package com.projetojpa.repository;
+
+public interface TurmaRepository {
+
+}
